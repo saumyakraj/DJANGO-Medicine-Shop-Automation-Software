@@ -3,6 +3,12 @@
 ## About the software
 
 
+Project link: https://github.com/saumyakraj/DJANGO-Medicine-Shop-Automation-Software
+
+
+## About the software
+
+
 The Medicine Shop Automation Software’s purpose is to automate Medicine Shop management and ease the shop owner’s workload. It is a convenient and easy-to-use application for the shop owner who has to deal with managing the medicine shop’s inventories and undergo various types of procedures involving transactions with vendors of the medicines and customers who buy the medicines. The system is based on a relational database with its Medicine Inventory and Transaction Records. It can handle efficient storage of data and provides the user with various functionalities. Above all, the software aims to provide a comfortable user experience to the medicine shop owners.
 
 
